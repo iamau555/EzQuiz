@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzQuiz.CSharp", "EzQuiz.CSharp.csproj", "{A3D0D18F-9E99-0A62-E960-D4858A19623F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzQuiz.CSharp.Editor", "EzQuiz.CSharp.Editor.csproj", "{FF4EA1AE-CB46-82FB-82FD-86319C33D1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D0D18F-9E99-0A62-E960-D4858A19623F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D0D18F-9E99-0A62-E960-D4858A19623F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D0D18F-9E99-0A62-E960-D4858A19623F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D0D18F-9E99-0A62-E960-D4858A19623F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4EA1AE-CB46-82FB-82FD-86319C33D1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4EA1AE-CB46-82FB-82FD-86319C33D1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4EA1AE-CB46-82FB-82FD-86319C33D1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4EA1AE-CB46-82FB-82FD-86319C33D1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

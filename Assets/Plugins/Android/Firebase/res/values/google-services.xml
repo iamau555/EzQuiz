@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://ezquiz-155cc.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">708535679311</string>
+  <string name="google_storage_bucket" translatable="false">ezquiz-155cc.appspot.com</string>
+  <string name="google_api_key" translatable="false">AIzaSyCH31o0sut3sFw9OS5ASQjIrHwCJ7G8hkM</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCH31o0sut3sFw9OS5ASQjIrHwCJ7G8hkM</string>
+  <string name="google_app_id" translatable="false">1:708535679311:android:1e57e36575632c06</string>
+  <string name="default_web_client_id" translatable="false">708535679311-9a5rn70e087235cu9bgu474lsm02igqf.apps.googleusercontent.com</string>
+</resources>
